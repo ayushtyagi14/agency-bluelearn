@@ -74,7 +74,7 @@ const Navbar = () => {
       </nav>
       {menuOpen && (
         <>
-          <div className="h-max flex flex-col md:px-10 px-5 pt-16 text-white">
+          <div className="h-max flex flex-col md:px-10 px-5 pt-20 pb-5 fixed bg-white text-white">
             <div className="flex flex-col justify-between">
               <a href="#addReview" className="text-black px-3 py-2">
                 Write a Review
