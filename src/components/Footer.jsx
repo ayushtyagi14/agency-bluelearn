@@ -73,7 +73,7 @@ function Footer() {
         <hr className="border-gray-300 mt-8 mb-6" />
         <div className="flex md:flex-row flex-col justify-between items-center">
           <div className="text-gray-500 text-sm">
-            © {new Date().getFullYear()} My Website. All rights reserved.
+            © {new Date().getFullYear()} BlueLearn. All rights reserved.
           </div>
           <div>
             <a href="#" className="text-gray-500 hover:text-gray-700 mr-4">
